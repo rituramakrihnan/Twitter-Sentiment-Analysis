@@ -1,0 +1,14 @@
+D:\Anaconda\python.exe D:\Data_Science_Project\Twitter_Sentiment_Analysis\top_ten.py tweets_data.json 
+Top ten hashtags:
+LiveStream 18
+Essay 4
+News 4
+TrueAchievements 3
+NowPlaying 3
+tie 2
+BarbaraHolzer 2
+JennyKreuger 2
+etsy 2
+coinhuntworld 2
+
+Process finished with exit code 0

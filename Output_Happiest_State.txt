@@ -1,0 +1,7 @@
+D:\Anaconda\python.exe D:\Data_Science_Project\Twitter_Sentiment_Analysis\happiest_state.py AFINN-111.txt tweets_data.json 
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\ritur\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+CO
+
+Process finished with exit code 0
